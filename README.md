@@ -1,2 +1,7 @@
 # wordpress_webp
-Convert Wordpress images to Webp in Mass
+
+This script converts JPG and PNG files to webp. I built this for WordPress but it can be used for any directory. 
+
+TODOS:
+
+Preserve transparency in PNG images.
